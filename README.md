@@ -13,3 +13,5 @@
 
 - 1장 - C 프로그래밍 입문
     - [HelloWorld.c](/week1/HelloWorld.c)
+
+- [1주차 과제](/week1/hw_week1.md)
