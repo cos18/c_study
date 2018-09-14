@@ -9,7 +9,7 @@
 ### 목차
 
 
-#### [1주차](/week01/README.md)
+#### [1주차](https://github.com/cos18/c_study/tree/master/week01)
 - 환경 설정
     - Windows : [Visual Studio 2017 Community 초기 설정하기 for C language](https://gist.github.com/cos18/557742b944207d1be0cbd1507d58ffe0)
     - Mac : [C/C++ for Visual Studio Code (Preview)](https://code.visualstudio.com/docs/languages/cpp)
@@ -26,7 +26,7 @@
 - [1주차 과제](/week01/hw_week1.md)
 
 
-#### [2주차](/week02/README.md)
+#### [2주차](https://github.com/cos18/c_study/tree/master/week02)
 - 3장 - 표준 입출력 도구
 
 
