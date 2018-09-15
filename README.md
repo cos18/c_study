@@ -16,6 +16,7 @@
 
 
 - 1장 - C 프로그래밍 입문
+    - [C언어의 기초](/week01/whyC.md)
     - [HelloWorld.c](/week01/HelloWorld.c)
     - [함수의 기초](/week01/basic_function.md) : 함수에 대한 구체적인 이야기는 10장에서 진행할 예정입니다.
 
