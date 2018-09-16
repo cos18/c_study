@@ -9,5 +9,10 @@
     - [함수의 기초](/week01/basic_function.md) : 함수에 대한 구체적인 이야기는 10장에서 진행할 예정입니다.
 
 - 2장 - 자료형
+    - [변수의 기초](basic_var.md)
+    - [DataType.c](DataType.c)
+
+- 주석 없는 코드 파일
+    - [HelloWorld.c](no_comment/HelloWorld.c)
 
 - [1주차 과제](/week01/hw_week1.md)
