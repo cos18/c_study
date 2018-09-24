@@ -1,5 +1,4 @@
-## 1주차 과제
-
+# 1주차 과제
 
 - 연습 문제
     1. C언어 코드는 어떻게 해서 exe파일로 변환되는가?
@@ -12,20 +11,19 @@
     8. 변수에 그 데이터 타입 (자료형)의 범위를 넘어가면 어떻게 저장되는가? 그리고 그러한 현상을 무엇이라고 하는가?
     9. 소수 (예를 들어 4.8)를 정수형 변수에 저장하면 저장된 값은 어떻게 되는가?
 
-
 - 다음 코드 예제를 보고 잘못된 점을 모두 찾아 수정하시오.
-```C
-    #include <studio.h> 
-    int main(void){ 
+
+```c
+    #include <studio.h>
+    int main(void){
         printf('Hello World!');
         return 0;
     }
 ```
 
-
-```C
-    #include <studio.h> 
-    int main(void){ 
+```c
+    #include <studio.h>
+    int main(void){
         double num = 100;
         printf("내 수학 점수는 %d점!", num)
         char a = 'A+';
@@ -33,16 +31,16 @@
     }
 ```
 
+## [백준 온라인 저지](https://www.acmicpc.net) 문제
 
-- [백준 온라인 저지](https://www.acmicpc.net) 문제
-    - 1장 - C 프로그래밍 입문
-        - [2557번](https://www.acmicpc.net/problem/2557) : Hello World
-        - [10172번](https://www.acmicpc.net/problem/10172) : 개
-        - [10718번](https://www.acmicpc.net/problem/10718) : We love kriii
-    - 2장 - 자료형
-        - 적절한 문제가 없이 이번주는 백준 사이트 과제가 적습니다 ㅎ...
+- 1장 - C 프로그래밍 입문
+  - [2557번](https://www.acmicpc.net/problem/2557) : Hello World
+  - [10172번](https://www.acmicpc.net/problem/10172) : 개
+  - [10718번](https://www.acmicpc.net/problem/10718) : We love kriii
 
+- 2장 - 자료형
+  - 적절한 문제가 없이 이번주는 백준 사이트 과제가 적습니다 ㅎ...
 
 - 2주차 내용 예습
-    - 3장 - 표준 입출력 도구
-    - 4장 - 연산자 (기본)
+  - 3장 - 표준 입출력 도구
+  - 4장 - 연산자 (기본)
