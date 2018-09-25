@@ -5,7 +5,7 @@
 
 - 1장 - C 프로그래밍 입문
     - [C언어의 기초](whyC.md)
-    - [HelloWorld.c](HelloWorld.c)
+    - [HelloWorld.c](HelloWorld.c) : C언어의 Basic Template (기본 틀)을 알아보자.
     - [함수의 기초](basic_function.md) : 함수에 대한 구체적인 이야기는 10장에서 진행할 예정입니다.
 
 - 2장 - 자료형
