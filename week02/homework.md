@@ -48,7 +48,7 @@
 ### [백준 온라인 저지](https://www.acmicpc.net) 문제
 
 - 3장 - 표준 입출력 도구
-  - [1000번](https://www.acmicpc.net/problem/1001) : A+B
+  - [1000번](https://www.acmicpc.net/problem/1000) : A+B
   - [1001번](https://www.acmicpc.net/problem/1001) : A-B
 - 4장 - 연산자 (기본)
   - [10998번](https://www.acmicpc.net/problem/10998) : A×B
