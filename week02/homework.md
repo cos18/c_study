@@ -51,7 +51,7 @@
   - [1000번](https://www.acmicpc.net/problem/1001) : A+B
   - [1001번](https://www.acmicpc.net/problem/1001) : A-B
 - 4장 - 연산자 (기본)
-  - [1002번](https://www.acmicpc.net/problem/1002) : A×B
+  - [10998번](https://www.acmicpc.net/problem/10998) : A×B
   - [10430번](https://www.acmicpc.net/problem/10430) : 나머지
   - [2839번](https://www.acmicpc.net/problem/2839) : 설탕 배달
   - [4344번](https://www.acmicpc.net/problem/4344) : 평균은 넘겠지
